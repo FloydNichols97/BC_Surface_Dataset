@@ -1,0 +1,35 @@
+﻿Type,Sample,TLE 
+Mat,BL1-1_Mat,21.26
+Mat,BL2-23_Mat ,28.7
+Mat,BL1-2_Mat_Top,18.61
+Mat,BL1-2_Mat_Bottom,19.56
+Mat,LCL4_Mat ,23.05
+Mat,LCL5_Mat,8.84
+Mat ,BL2-11_Streamers,41.95
+Salt ,SL_Salt_2,0.9
+Sediment ,LCL4_Sediment,4.74
+Sediment ,LCL5_Sediment,5.59
+Sediment ,BL1-1 Mud_Sediment,24.43
+Sediment ,BL2-23_Sediment,22.92
+Sediment ,SLSU_Sediment ,4.37
+Sediment ,SLSL_Sediment,10.94
+Sediment ,BL4_Sediment,28.89
+Sediment ,SL_Sediment_1 ,16.9
+Sediment ,SL_Sediment_3 ,8.7
+Sediment ,BL_Sediment_3,33.7
+Water ,BL4_Brine,3.4
+Water ,BL2-23_Brine,1.8
+Water ,BL1-2_Brine,4.5
+Water ,BL2-4_Brine,4.3
+Water ,LCL4_Brine,1.38
+Water ,LCL5_Brine,2.39
+Water ,SLSL_Spring,1.31
+Water ,BL2-2_Brine,3.63
+Water ,SLSU_Spring,0.13
+Water ,BL2-1_Brine,6.15
+Salt ,BL4_Salt ,1.74
+Salt ,BL1-1_Salt ,1.93
+Salt ,BL2-23_Salt,17.57
+Salt ,BL1-1_Salt_1,5.43
+Salt ,BL1-1_Salt_2,2.96
+Sediment ,SLP_Sediment,10.94
