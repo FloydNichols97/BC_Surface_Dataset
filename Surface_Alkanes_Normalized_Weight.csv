@@ -1,4 +1,4 @@
-Compound,Category,BL1-1_Mat,BL1-2_Mat_Bottom,BL1-2_Mat_Top,BL2-23_Mat,LCL4_Mat,BL2-11_Streamers,BL1-1_Salt,BL1-1_Salt_1,BL1-1_Salt_2,BL2-23_Salt,BL4_Salt,SL_Salt_2,BL2-1_Brine,BL2-2_Brine,BL_Sediment_3,BL1-1_Sediment,BL2-23_Sediment,BL4_Sediment,LCL4_Sediment,SL_Sediment_1,SL_Sediment_3,BL2-4_Brine,LCL5_Sediment
+Compound,Category,BL1-1_Mat,BL1-2_Mat_Bottom,BL1-2_Mat_Top,BL2-23_Mat,LCL4_Mat,BL2-11_Streamers,BL1-1_Salt,BL1-1_Salt_1,BL1-1_Salt_2,BL2-23_Salt,BL4_Salt,SL_Salt_2,BL2-1_Brine,BL2-2_Brine,BL2-2_Sediment_3,BL1-1_Sediment,BL2-23_Sediment,BL4_Sediment,LCL4_Sediment,SL_Sediment_1,SL_Sediment_3,BL2-4_Brine,LCL5_Sediment
 br-C16:0,Branched_Alkane,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.674014996,0,0,0,0,0,0,0,0
 Unknown,Unknown,0,0,0,0,0,0,0.038870552,0,0,0,0,0,0.344175626,0.10958622,0,0,0,0,0,0,0,1.092666725,0
 C17:1,MUFA_Alkane,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.140562224,0,0,0,0
